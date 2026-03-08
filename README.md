@@ -7,13 +7,20 @@ JOIN
 GROUP BY
 Subquery
 DML
-함수
+Functions
+Analytic Functions
+DDL
+Constraints
+Views
+Index
 ```
 Oracle Exam 1Z0-083 Oracle Database Administration II(1Z0-083 DBA)
 ```
-RMAN 백업 / 복구
+Backup / Recovery
+RMAN
 Data Guard
 Performance tuning
-Multitenant DB
-보안 관리
+Multitenant architecture
+Security
+Resource manager
 ```
