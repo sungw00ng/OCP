@@ -8,7 +8,6 @@
 ## Oracle Exam 1Z0-071 Oracle Database SQL (1Z0-071 SQL)
 - 약 63문제, 120분 / 응시료 : 33만 ~ 35만원
 - 약 40문제 정도 맞으면 합격
-- https://www.udemy.com/course/1z0-071-learn-oracle-sql-database-using-developer/ 할인 17000 ?
 ```
 SELECT
 JOIN
